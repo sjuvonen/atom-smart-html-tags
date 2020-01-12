@@ -2,12 +2,13 @@
   "name": "smart-html-tags",
   "main": "./lib/smart-html-tags",
   "version": "0.0.0",
-  "description": "Insert HTML/XML closing tags automatically.",
+  "description": "Bundle of tiny smart HTML/XML enhancements.",
   "keywords": [
     "html",
     "xml",
     "tag",
-    "close"
+    "autoclose",
+    "close tags"
   ],
   "repository": "https://github.com/sjuvonen/atom-smart-html-tags",
   "license": "MIT",
