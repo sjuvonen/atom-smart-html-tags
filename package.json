@@ -1,7 +1,7 @@
 {
   "name": "smart-html-tags",
   "main": "./lib/smart-html-tags",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Bundle of tiny smart HTML/XML enhancements.",
   "keywords": [
     "html",
