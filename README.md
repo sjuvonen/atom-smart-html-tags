@@ -13,3 +13,4 @@ another package for that behavior.
 - Insert ending tag automatically upon completing the opening tag.
 - Insert an indentation block when user presses Enter while between open and close
   tags.
+- Automatically rename the corresponding tag also when editing the other side.
