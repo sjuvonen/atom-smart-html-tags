@@ -14,3 +14,15 @@ another package for that behavior.
 - Insert an indentation block when user presses Enter while between open and close
   tags.
 - Automatically rename the corresponding tag also when editing the other side.
+
+
+## Examples
+
+### Tag auto complete
+![](docs/1579007296188.gif)
+
+### Indentation block between open/close tags
+![](docs/1579008058612.gif)
+
+### Synchronized tag renaming
+![](docs/1579007541235.gif)
